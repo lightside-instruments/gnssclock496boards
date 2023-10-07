@@ -1,3 +1,10 @@
+gnssclock496boards (2.0) jammy; urgency=medium
+
+  * Changed position of SMA connectors. Now clock outputs 20 mm apart with 24 mm group center offset
+  * Added missing logo footprint
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Sat, 07 Oct 2023 23:27:04 +0200
+
 gnssclock496boards (1.0) jammy; urgency=medium
 
   * Initial release of gnssclock496boards
