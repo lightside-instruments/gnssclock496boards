@@ -1,3 +1,14 @@
+gnssclock496boards (1.0) jammy; urgency=medium
+
+  * Initial release of gnssclock496boards
+  * Replaced 51 ohm 0402 termination resistors with 0805
+  * Replaced the 1PPS LED resistor from 0604 to 0402
+  * Fixed DRC reported gap size violations and warnings
+  * Added labels for the SMA interfaces and battery type
+  * Cosmetic improvements - logo, component labels
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Sat, 07 Oct 2023 20:51:00 +0200
+
 gpsclock4ultra96 (1.1) jammy; urgency=medium
 
   * * Upgraded to KiCad 6
