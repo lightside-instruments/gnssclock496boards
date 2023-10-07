@@ -1,3 +1,10 @@
+gnssclock496boards (2.1) jammy; urgency=medium
+
+  * Added fiducials
+  * Added geometric center cross hair marks to the front and back silkscreen layers
+
+ -- Vladimir Vassilev <vladimir@lightside-instruments.com>  Sun, 08 Oct 2023 00:34:04 +0200
+
 gnssclock496boards (2.0) jammy; urgency=medium
 
   * Changed position of SMA connectors. Now clock outputs 20 mm apart with 24 mm group center offset
